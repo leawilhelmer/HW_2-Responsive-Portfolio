@@ -1,3 +1,17 @@
-p {
-    float: left;
+h2 {
+    color: yellowgreen;
+}
+
+span {
+    background-color: yellowgreen;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+h5 {
+    color: yellowgreen;
+    font-weight: bold;
+    font-size: x-large;
 }
