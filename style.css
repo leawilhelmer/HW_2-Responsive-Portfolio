@@ -19,3 +19,16 @@ h5 {
 .card-body {
     padding: 3rem;
 }
+
+.container {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.card-body {
+    padding: 0.5rem;
+}
+
+img {
+    float: left;
+}
